@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<time.h>
 /**
- * main -assigning random numbers to variables.
+ * main -program entry point.
  * Return: 0 -no error, non zero value if erro.
 */
 int main(void)
